@@ -121,7 +121,8 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em Qualidade de Materiais Elétricos em</strong2> <strong>Lençóis Paulista e Região.</strong>
+              <strong2>Seu sábado merece música boa 😆 Vem pro La Casa! Aqui você garante diversão e pizzas deliciosas.
+⠀</strong2> <strong>Atendimento de terça a domingo das 18h às 23h.</strong>
             </h3>
             <p>
             
