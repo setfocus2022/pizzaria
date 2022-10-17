@@ -4,12 +4,12 @@
   right: 0;
   left: 0;
   width: 100%;
-  background-color: #f8f7fc;
+  background-color: #22142b;
   padding: var(--s08) 0;
   z-index: 1000;
 
   div {
-    color: #22142b;
+    color: var(--blue-black);
     font-weight: bold;
     display: flex;
     justify-content: space-between;
