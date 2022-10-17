@@ -9,7 +9,7 @@
   z-index: 1000;
 
   div {
-    color: var(--blue-black);
+    color: var(--bg);
     font-weight: bold;
     display: flex;
     justify-content: space-between;
@@ -37,7 +37,7 @@
     position: absolute;
     top: 84px;
     right: 0;
-    background-color: var(--blue-black);
+    background-color: var(--bg);
     color: #f1f7f3;
     z-index: 1000;
     visibility: hidden;
