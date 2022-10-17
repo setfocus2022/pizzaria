@@ -19,7 +19,7 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eletro Santa Clara - Loja 1</h3>
+            <h3>La Casa Pizza Bar</h3>
             <ul>
               <li>(14) 99612-3444 </li>
               <li>vendas@eletrosantaclara.com.br</li>
@@ -61,15 +61,15 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Eletro Santa Clara - loja 2</h3>
-            <p> Rua Pastor Natalino Paulino, nº. 260, Vila Santa Cecília</p>
-            <p>Fone 14 3269.1717 - 14 98118.8248</p>
+            <h3></h3>
+            <p></p>
+            <p></p>
           </div>
 
           <div>
             <h3>Atendimento</h3>
-            <p>Seg - Sex: 08:00 - 18:00</p>
-            <p>Sáb: até 12h - Dom: Fechado</p>
+            <p>Ter - Dom: 18:00 - 23:00</p>
+            <p></p>
           </div>
         </div>
       </footer>

@@ -58,7 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Atendimento personalizado faz toda a <strong>diferença</strong>
+            Vem pro La Casa! Aqui você garante diversão e <strong>pizzas deliciosas.</strong>
             </h1>
 
           
