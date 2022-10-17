@@ -121,7 +121,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Seu sábado merece música boa 😆 Vem pro La Casa! Aqui você garante diversão e pizzas deliciosas.
+              <strong2>Você merece música boa. Vem pro La Casa! Aqui você garante diversão e pizzas deliciosas.
 ⠀</strong2> <strong>Atendimento de terça a domingo das 18h às 23h.</strong>
             </h3>
             <p>
