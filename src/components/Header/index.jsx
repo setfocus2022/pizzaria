@@ -63,14 +63,14 @@ export const Header = () => {
               <a>Home</a>
             </Link>
             <Link href="/produtos">
-              <a>Produtos</a>
+              <a>Cardápio</a>
             </Link>
             <Link href="/empresa">
-              <a>A Empresa</a>
+              <a>Saiba Mais</a>
             </Link>
             
             <Link href="/vendedores">
-              <a>Contato</a>
+              <a>Localização</a>
             </Link>
 
           </nav>
@@ -102,24 +102,24 @@ export const Header = () => {
             </li>
             <li onClick={closeMenu}>
               <Link href="/produtos">
-                <a>produtos</a>
+                <a>Cardápio</a>
               </Link>
             </li>
             <li onClick={closeMenu}>
               <Link href="/empresa">
-                <a>A Empresa</a>
+                <a>Saiba mais</a>
               </Link>
             </li>
 
             <li onClick={closeMenu}>
               <Link href="/vendedores">
-                <a>Contato</a>
+                <a>Localização</a>
               </Link>
             </li>
           
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/551981189197">
-                <a target="_blank">Fale com nossos vendedores</a>
+              <Link href="https://wa.me/5514996123444">
+                <a target="_blank">Faça seu pedido</a>
               </Link>
             </li>
           </ul>
