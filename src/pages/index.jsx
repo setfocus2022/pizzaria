@@ -35,7 +35,7 @@ export default function Home() {
         <title>Home | La Casa Pizza </title>
         <meta
           name="description"
-          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="La Casa Pizza e Bar"
         />
         <meta
           name="keywords"
