@@ -24,7 +24,7 @@ export default function Home() {
     gtag.event({
       action: "agendar_consulta",
       category: "marcar_consulta_whatsapp",
-      label: "Faça um Orçamento",
+      label: "Faça seu pedido",
       value: "Pedido",
     });
   }
@@ -32,15 +32,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | La Casa Pizza Bar</title>
+        <title>Home | La Casa Pizza </title>
         <meta
           name="description"
-          content="La Casa Pizza Bar"
+          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
         />
         <meta
           name="keywords"
-          content="eletro santa clara, materiais elétricos, média tensão,ferragens, alta tensão, tomada, interruptor, disjuntor, contator, para-raio, poste, transformador
-          "
+          content="pizza,lache, hamburguer,hot dog,cachorro quente,suco,bebidas"
         />
         <meta name="author" content="Santa Clara" />
         
