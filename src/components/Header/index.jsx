@@ -79,10 +79,10 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/5514981189197"
+              link="https://wa.me/5514996123444"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-              Fale com nossos vendedores
+              Faça seu pedido
             </Button>
           </div>
         </div>
