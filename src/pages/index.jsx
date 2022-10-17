@@ -58,7 +58,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-            Vem pro La Casa! Aqui você garante diversão e <strong>pizzas deliciosas.</strong>
+            Solteiro sim, com fome nunca.  <strong>Experimente as nossas delícias!</strong>
             </h1>
 
           
