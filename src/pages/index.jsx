@@ -25,7 +25,7 @@ export default function Home() {
       action: "agendar_consulta",
       category: "marcar_consulta_whatsapp",
       label: "Faça um Orçamento",
-      value: "Orçamento",
+      value: "Pedido",
     });
   }
 
