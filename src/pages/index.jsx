@@ -63,8 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão é entregar qualidade e preço baixo para proporcionar
-              máxima satisfação aos nossos Clientes.
+            Um novo conceito em bar para o público Lençoense e região. <strong>Servindo diversas porções, drinks ...</strong>
             </p>
            
   
