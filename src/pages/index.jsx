@@ -44,8 +44,7 @@ export default function Home() {
         />
         <meta name="author" content="Santa Clara" />
         
-        <script async src="//static.zotabox.com/b/7/b7502fb6f5f765b9614401000a1c1159/widgets.js"></script>
-        
+                
       </Head>
 
       {/* <div className={styles.schedule}>
@@ -79,7 +78,7 @@ export default function Home() {
                 link="https://wa.me/5514981189197"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Fale com nossos Vendedores
+                Faça seu pedido
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
