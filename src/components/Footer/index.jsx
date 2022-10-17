@@ -13,7 +13,7 @@ export const Footer = ({ children, link = "/" }) => {
                 src="/icons/logo_transparente.png"
                 alt="Logo"
                 width="300"
-                height="110"
+                height="150"
               />
             </a>
           </Link>
