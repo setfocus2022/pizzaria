@@ -32,10 +32,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eletro Santa Clara</title>
+        <title>Home | La Casa Pizza Bar</title>
         <meta
           name="description"
-          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="La Casa Pizza Bar"
         />
         <meta
           name="keywords"
