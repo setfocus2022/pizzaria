@@ -38,7 +38,7 @@ export const Header = () => {
           <Link href="/">
             <a>
               <Image
-                src="/icons/logo.svg"
+                src="/icons/logo_transparente.png"
                 alt="Eletro Santa Clara"
                 width="180"
                 height="64"
