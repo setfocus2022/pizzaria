@@ -32,16 +32,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | La Casa Pizza </title>
+        <title>Home | La Casa Pizza Bar - Lençóis Paulista</title>
         <meta
           name="description"
-          content="La Casa Pizza e Bar"
+          content="La Casa Pizza e Bar Lençóis Paulista"
         />
         <meta
           name="keywords"
-          content="pizza,lache, hamburguer,hot dog,cachorro quente,suco,bebidas"
+          content="pizza,lache, hamburguer,hot dog,cachorro quente,suco,bebidas, lençóis paulista"
         />
-        <meta name="author" content="Santa Clara" />
+        <meta name="author" content="La Casa Pizza Bar" />
         
                 
       </Head>
